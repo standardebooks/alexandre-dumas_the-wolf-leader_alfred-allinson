@@ -14,3 +14,7 @@ p[epub|type~="z3998:salutation"],
 p[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+#chapter-20 > blockquote > p{
+	text-align: center;
+}
