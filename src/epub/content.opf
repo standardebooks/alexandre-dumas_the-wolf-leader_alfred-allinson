@@ -63,10 +63,10 @@
 		<meta property="file-as" refines="#introducer">Garnett, Robert Singleton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introducer">http://id.loc.gov/authorities/names/nr90004246</meta>
 		<meta property="role" refines="#introducer" scheme="marc:relators">win</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Cornelis Saftleven</dc:contributor>
+		<meta property="file-as" refines="#artist">Saftleven, Cornelis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Cornelis_Saftleven</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79001237</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
