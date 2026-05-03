@@ -34,14 +34,14 @@
 		<meta property="term" refines="#subject-1">sh2008113446</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A shoemaker makes a compact with a black werewolf to exchange for strands of his hair for granted wishes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Thibault, a French shoemaker is his mid twenties, has his craft and the possibility of marriage with Agnelette, but he’s unhappy with his social status. A contretemps with the Baron of Vez leads to Thibault’s failed attempt to poach a deer from the Baron’s land, but his wishes are unexpectedly answered when a black wolf that walks on its hind legs and speaks delivers the buck to his shed. The wolf explains that Thibault can have anything he desires, in exchange for just a few of his hairs. The wishes enabled by this compact unsurprisingly work, but not necessarily in the way that Thibault expects.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Wolf-Leader&lt;/i&gt;, written in 1857, is not considered one of &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Dumas’&lt;/a&gt; classic works, but it is interesting to modern readers as an early piece of werewolf fiction. Many of the current werewolf tropes are not present in this work: the werewolf is primarily an agent of the devil, sent to tempt Christians away from the moral life. Dumas’ portrayal builds on the 15th-century French legend of the &lt;i lang="fr"&gt;loup-garou&lt;/i&gt;; a werewolf who’s as much wizard as shapeshifter, who has magical powers including invulnerability and the ability to disappear at will.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/51054</dc:source>
 		<dc:source>https://archive.org/details/wolfleader00duma</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wolf_Leader</meta>
