@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson</dc:identifier>
 		<dc:date>2026-05-04T18:15:14Z</dc:date>
@@ -35,11 +35,11 @@
 		<meta property="term" refines="#subject-1">sh2008113446</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Horror</meta>
-		<dc:description id="description">A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Thibault, a French shoemaker in his mid twenties, has his craft and the possibility of marriage with Agnelette, but he’s unhappy with his status in society and wants to move up the social ladder. A contretemps with the Baron of Vez leads to Thibault’s failed attempt to poach a deer from the Baron’s land, but Thibault’s wishes are unexpectedly answered when a black wolf that walks on its hind legs—and speaks!—delivers him the buck. The wolf explains that Thibault can have anything he desires, in exchange for just a few of his hairs. The wishes granted by this compact become reality—but not necessarily in the way that Thibault expects.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Wolf-Leader&lt;/i&gt;, written in 1857, isn’t considered to be one of &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Dumas’&lt;/a&gt; classic works, but it remains of interest as an early example of werewolf fiction. Many of the werewolf tropes modern readers are familiar with aren’t present in this work: rather, the werewolf is primarily an agent of the devil, sent to tempt Christians away from the moral life. Dumas’ portrayal builds on the 15th-century French legend of the &lt;i&gt;loup-garou&lt;/i&gt;: a werewolf who’s as much wizard as shapeshifter, and who has magical powers like invulnerability and the ability to disappear at will.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/51054</dc:source>
 		<dc:source>https://archive.org/details/wolfleader00duma</dc:source>
