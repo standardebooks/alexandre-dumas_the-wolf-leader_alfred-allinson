@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/51054</dc:source>
 		<dc:source>https://archive.org/details/wolfleader00duma</dc:source>
-		<meta property="schema:wordCount">88753</meta>
+		<meta property="schema:wordCount">88754</meta>
 		<meta property="schema:educationalLevel">73.0</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Wolf_Leader" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
