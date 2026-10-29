@@ -51,7 +51,7 @@
 		<link href="https://github.com/standardebooks/alexandre-dumas_the-wolf-leader_alfred-allinson" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Alexandre Dumas</dc:creator>
 		<meta property="file-as" refines="#author">Dumas, Alexandre</meta>
-		<meta property="schema:alternateName" refines="#author">Dumas Davy de la Pailleterie</meta>
+		<meta property="schema:alternateName" refines="#author">Alexandre Davy de la Pailleterie</meta>
 		<link href="https://en.wikipedia.org/wiki/Alexandre_Dumas" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79042162.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
